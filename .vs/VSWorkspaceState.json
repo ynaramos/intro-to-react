@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\intro-app",
+    "\\intro-app\\public",
     "\\intro-app\\src"
   ],
-  "SelectedNode": "\\intro-app\\package.json",
+  "SelectedNode": "\\intro-app\\src\\index.js",
   "PreviewInSolutionExplorer": false
 }
